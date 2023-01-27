@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12 Portable) (preloaded format=latex 2023.1.11)  14 JAN 2023 14:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./media/Tex/ee3e4a80412dc5e2.tex
+(media/Tex/ee3e4a80412dc5e2.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-12-17>
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/standalon
+e\standalone.cls
+Document Class: standalone 2022/10/10 v1.3b Class to compile TeX sub-files stan
+dalone
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/tools\she
+llesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/iftex\i
+fluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/iftex\i
+ftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/xkeyval\x
+keyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/xkeyval
+\xkeyval.tex
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/xkeyval
+\xkvutils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/xkeyval
+\keyval.tex))
+\XKV@depth=\count185
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count186
+\c@sapage=\count187
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/standalon
+e\standalone.cfg
+File: standalone.cfg 2022/10/10 v1.3b Default configuration file for 'standalon
+e' class
+)
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/base\arti
+cle.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/base\size
+10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/preview\p
+review.sty
+Package: preview 2017/04/24 13.1 (AUCTeX/preview-latex)
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/luatex85\
+luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+)
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/preview\p
+rtightpage.def
+\PreviewBorder=\dimen141
+)
+\pr@snippet=\count196
+\pr@box=\box51
+\pr@output=\toks18
+))
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/babel\b
+abel.sty
+Package: babel 2022/12/26 3.84 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen142
+\l@unhyphenated=\language79
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/generic/babel\t
+xtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/arabi\bbl
+opts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\이현서\scoop\apps\latex\current\texmfs\install\tex/latex/babel-eng
+lish\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))

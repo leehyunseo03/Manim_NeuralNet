@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1413466013_1961505288_223132457.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_1076466279_1716232719.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_2094105321_2552379047.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_3369782230_4174018169.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_1076466279_3254334563.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_1045342593_4243444249.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_1903127312_3828168139.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_1076466279_1180926812.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/practice/1080p60/partial_movie_files/lol/1672018281_223210325_1348296293.mp4'

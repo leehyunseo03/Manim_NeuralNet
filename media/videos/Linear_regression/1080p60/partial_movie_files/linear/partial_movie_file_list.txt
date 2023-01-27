@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1413466013_601169642_223132457.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_2565977588.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_2778933969.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_3068096021.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_3272202591.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_1950581093.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_2361167271.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_949046767.mp4'
+file 'file:C:/Users/이현서/manim/media/videos/Linear_regression/1080p60/partial_movie_files/linear/1672018281_3026927184_1850116896.mp4'
