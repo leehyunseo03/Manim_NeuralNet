@@ -72,6 +72,8 @@ class lossdefine(Scene):
         self.wait(2)
         self.play(FadeOut(losstolinearfunction),FadeOut(others),FadeOut(mse))
         self.wait(1)
+        self.wait()
+        self.wait()
 
 #manim NN101_2.py lossdefine   
 
